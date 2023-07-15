@@ -1,0 +1,21 @@
+{
+  "Tags": [
+    {
+      "Key": "YouTube"
+    },
+    {
+      "Key": "Video"
+    },
+    {
+      "Key": "View"
+    },
+    {
+      "Key": "Watch"
+    },
+    {
+      "Key": "Watch Again"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
